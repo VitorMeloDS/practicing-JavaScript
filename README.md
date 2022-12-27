@@ -6,4 +6,6 @@ Neste repositório tem códigos com explicações sobre o alguns métodos do Jav
 
 - Para executar algum código basta digitar no terminal 'node' e o path até o arquivo como o exemplo abaixo demonstra:
 
-``` node src/methodArray/map/multiplier.js ```
+```bash
+  node src/methodArray/map/multiplier.js
+```
