@@ -1,7 +1,7 @@
 
 /*
  * Shift é uma função nativa do JavaScript que remove o primeiro elemento da array 
- * .e retorna o mesmo.
+ * e retorna o mesmo.
  */
 
 let array = [1, 2, 3, 4, 5, 6, 7, 8];
